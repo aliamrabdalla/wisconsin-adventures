@@ -43,9 +43,11 @@ Before printing permanent QR codes:
 5. Set scale to **100%**
 6. Enable **Background graphics** (needed for the green accent bar)
 7. Print on cardstock
-8. Cut along the dashed lines — 4 cards per sheet, 13 sheets total
+8. Cut along the solid green borders — 4 cards per sheet, 13 sheets total
 
-Each card is 3 x 5 inches (vertical) with: location title at top, QR code in center, card ID, and a 2x3 badge grid at the bottom.
+Each card is 3 x 5 inches (vertical) with: green banner header with location title, QR code in center, and a 2x3 badge grid with Font Awesome icons at the bottom.
+
+**Note:** The print page loads [Font Awesome](https://fontawesome.com/) from a CDN for badge icons, so you need an internet connection when opening `print/cards.html`.
 
 ### 4. Edit an adventure
 

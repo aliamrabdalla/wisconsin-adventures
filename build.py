@@ -337,6 +337,7 @@ PRINT_PAGE_TEMPLATE = """<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <title>Wisconsin Adventure Cards - Print</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <style>
     @page { size: letter; margin: 0; }
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -359,46 +360,69 @@ PRINT_PAGE_TEMPLATE = """<!DOCTYPE html>
     .p-card {
       width: 3in;
       height: 5in;
-      border: 1px dashed #aaa;
-      border-top: 3pt solid #2D5016;
+      border: 1px solid #2D5016;
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: space-between;
-      padding: 0.2in 0.15in;
       text-align: center;
-    }
-    .p-empty { border: none; border-top: none; }
-    .p-location {
-      font-size: 12pt;
-      font-weight: 800;
-      text-transform: uppercase;
-      color: #2D5016;
-      letter-spacing: 0.03em;
-      line-height: 1.2;
-      max-height: 0.8in;
       overflow: hidden;
     }
-    .p-qr { width: 1.75in; height: 1.75in; }
+    .p-empty { border: none; }
+    .p-banner {
+      width: 100%;
+      background: #2D5016;
+      color: #fff;
+      padding: 0.22in 0.18in 0.2in;
+      position: relative;
+      flex-shrink: 0;
+    }
+    .p-id {
+      position: absolute;
+      top: 0.06in;
+      right: 0.1in;
+      font-size: 5pt;
+      color: rgba(255,255,255,0.3);
+      letter-spacing: 0.05em;
+    }
+    .p-location {
+      font-size: 16pt;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      line-height: 1.15;
+    }
+    .p-qr {
+      width: 2.1in;
+      height: 2.1in;
+      margin-top: 0.35in;
+    }
     .p-qr img { width: 100%; height: 100%; image-rendering: pixelated; }
-    .p-id { font-size: 7.5pt; color: #888; letter-spacing: 0.1em; }
     .p-badges {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
-      gap: 0.04in;
+      gap: 0.06in;
       width: 100%;
+      padding: 0 0.12in;
+      margin-top: auto;
+      margin-bottom: 0.15in;
     }
     .p-badge {
-      font-size: 6pt;
-      font-weight: 600;
+      font-size: 8.5pt;
+      font-weight: 900;
       text-transform: uppercase;
       color: #1B4965;
-      border: 0.5pt solid #ccc;
-      border-radius: 2pt;
-      padding: 1pt 2pt;
+      border: 0.75pt solid #bbb;
+      border-radius: 3pt;
+      padding: 4pt 2pt;
       text-align: center;
       white-space: nowrap;
       overflow: hidden;
+      line-height: 1.3;
+    }
+    .p-icon {
+      font-size: 10pt;
+      display: block;
+      margin-bottom: 1pt;
     }
   </style>
 </head>
@@ -409,9 +433,11 @@ PRINT_PAGE_TEMPLATE = """<!DOCTYPE html>
 """
 
 PRINT_CARD_TEMPLATE = """    <div class="p-card">
-      <div class="p-location">%%location_title%%</div>
+      <div class="p-banner">
+        <span class="p-id">%%card_id%%</span>
+        <div class="p-location">%%location_title%%</div>
+      </div>
       <div class="p-qr"><img src="%%qr_src%%" alt="QR %%card_id%%"></div>
-      <div class="p-id">%%card_id%%</div>
       <div class="p-badges">%%badges%%</div>
     </div>"""
 
@@ -535,6 +561,24 @@ def build_index(cards):
     write_file("index.html", page_html)
 
 
+BADGE_ICONS = {
+    "cost":     {"_default": "fa-solid fa-dollar-sign"},
+    "time":     {"DAY": "fa-solid fa-sun", "NIGHT": "fa-solid fa-moon", "EITHER": "fa-solid fa-clock"},
+    "duration": {"_default": "fa-solid fa-hourglass-half"},
+    "setting":  {"INDOOR": "fa-solid fa-house", "OUTDOOR": "fa-solid fa-mountain-sun", "BOTH": "fa-solid fa-door-open"},
+    "effort":   {"CHILL": "fa-solid fa-couch", "MODERATE": "fa-solid fa-person-walking", "ACTIVE": "fa-solid fa-person-running"},
+    "season":   {"WINTER": "fa-solid fa-snowflake", "SPRING": "fa-solid fa-seedling", "SUMMER": "fa-solid fa-sun",
+                 "FALL": "fa-solid fa-leaf", "ANY": "fa-solid fa-calendar", "_default": "fa-solid fa-calendar"},
+}
+
+def badge_icon(category, value):
+    cat = BADGE_ICONS.get(category, {})
+    cls = cat.get(value, cat.get("_default", ""))
+    if not cls:
+        return ""
+    return f'<i class="p-icon {cls}"></i>'
+
+
 def build_print_sheets(cards):
     pages = [cards[i:i+4] for i in range(0, len(cards), 4)]
     all_pages = []
@@ -545,12 +589,17 @@ def build_print_sheets(cards):
             url = f"{BASE_URL}/cards/{card['id']}/"
             qr_uri = get_qr_data_uri(url)
 
-            badges_list = [
-                card["cost"], card["time_of_day"], card["duration"],
-                card["setting"], card["effort"], card["season"],
+            badge_fields = [
+                ("cost", card["cost"]),
+                ("time", card["time_of_day"]),
+                ("duration", card["duration"]),
+                ("setting", card["setting"]),
+                ("effort", card["effort"]),
+                ("season", card["season"]),
             ]
             badge_html = "".join(
-                f'<span class="p-badge">{esc(b)}</span>' for b in badges_list
+                f'<span class="p-badge">{badge_icon(cat, val)}{esc(val)}</span>'
+                for cat, val in badge_fields
             )
 
             card_html = render(PRINT_CARD_TEMPLATE, {

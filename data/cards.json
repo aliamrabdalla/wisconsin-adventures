@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "WI-001",
+    "location_title": "APPLETON, WI",
+    "cost": "$15-$40",
+    "time_of_day": "EITHER",
+    "duration": "1-2H",
+    "setting": "INDOOR",
+    "effort": "ACTIVE",
+    "season": "ANY",
+    "reveal_title": "HEAD TO THE BREAKING POINT LLC RAGE ROOM",
+    "bonus": "Bring your own music to jam out to!",
+    "summary_blurb": "Smash stuff together in a rage room for a one-of-a-kind date.",
+    "steps": [
+      "Book a couples session online at The Breaking Point LLC",
+      "Wear closed-toe shoes and long pants — they provide safety gear",
+      "Pick your smash package and choose extras like glass items or electronics",
+      "Blast your own playlist and go wild for 15-30 minutes",
+      "Cool down with drinks at a nearby Fox River brewery"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/The+Breaking+Point+LLC+Appleton+WI"},
+      {"label": "Website", "url": "https://www.thebreakingpointllc.com/"}
+    ],
+    "notes": [
+      "Book at least a few days ahead — weekend slots fill up",
+      "Minimum age is typically 12+ with a waiver",
+      "Combo packages for two are the best value"
+    ]
+  },
+  {
+    "id": "WI-002",
+    "location_title": "BAILEYS HARBOR, WI",
+    "cost": "$40-$100",
+    "time_of_day": "DAY",
+    "duration": "HALF DAY",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SUMMER",
+    "reveal_title": "TAKE THE CAVE POINT TOUR WITH DOOR COUNTY ADVENTURE RAFTING",
+    "bonus": "Have a picnic afterwards at Baileys Harbor Ridges County Park!",
+    "summary_blurb": "Explore Lake Michigan's dramatic sea caves by inflatable raft.",
+    "steps": [
+      "Reserve the Cave Point Tour online — morning slots get calmer water",
+      "Meet at the launch site and get fitted with gear",
+      "Paddle through sea caves and along the rocky shoreline with your guide",
+      "After the tour, drive to Baileys Harbor Ridges County Park for a picnic",
+      "Hike the boardwalk through the ridges to stretch your legs"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Door+County+Adventure+Rafting+Baileys+Harbor+WI"},
+      {"label": "Adventure Rafting", "url": "https://www.doorcountyadventurerafting.com/"}
+    ],
+    "notes": [
+      "Tours run June through September depending on weather",
+      "Dress to get wet — bring a change of clothes",
+      "WI state park sticker may be required for nearby parks"
+    ]
+  },
+  {
+    "id": "WI-003",
+    "location_title": "BARABOO, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "HALF DAY",
+    "setting": "OUTDOOR",
+    "effort": "ACTIVE",
+    "season": "SPR-FALL",
+    "reveal_title": "HIKE THE BALANCED ROCK TRAIL AT DEVIL'S LAKE STATE PARK",
+    "bonus": "Spend time swimming and having a picnic at the beach!",
+    "summary_blurb": "Tackle one of Wisconsin's best bluff hikes with incredible lake views.",
+    "steps": [
+      "Arrive early to snag parking at the north shore lot",
+      "Start on the East Bluff Trail and hike up to Balanced Rock",
+      "Continue along the bluff for panoramic views of the lake",
+      "Loop back down via the CCC Trail or Grottos Trail",
+      "Cool off with a swim at the north shore beach"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Devils+Lake+State+Park+Baraboo+WI"},
+      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/devilslake"}
+    ],
+    "notes": [
+      "$13 daily vehicle pass or annual WI state park sticker required",
+      "The bluff trails have steep rocky sections — wear sturdy shoes",
+      "Weekends are packed in summer — arrive before 9 AM"
+    ]
+  },
+  {
+    "id": "WI-004",
+    "location_title": "BAYFIELD, WI",
+    "cost": "$40-$100",
+    "time_of_day": "DAY",
+    "duration": "FULL DAY",
+    "setting": "OUTDOOR",
+    "effort": "ACTIVE",
+    "season": "SUMMER",
+    "reveal_title": "KAYAK THE APOSTLE ISLANDS SEA CAVES",
+    "bonus": "Explore downtown Bayfield and grab fresh whitefish at a local spot!",
+    "summary_blurb": "Paddle through carved sandstone sea caves on Lake Superior.",
+    "steps": [
+      "Book a guided sea cave kayak tour with a Bayfield outfitter",
+      "Check the weather — tours require calm lake conditions",
+      "Gear up and paddle out to the mainland sea caves",
+      "Explore sandstone arches, chambers, and colorful rock faces",
+      "After the tour, walk the Bayfield waterfront and grab lunch"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Bayfield+WI+kayak+tours"},
+      {"label": "Apostle Islands", "url": "https://www.nps.gov/apis/index.htm"}
+    ],
+    "notes": [
+      "Book well in advance — summer tours sell out fast",
+      "Tours depend on Lake Superior conditions and may cancel",
+      "Plan for a full day — the drive to Bayfield is part of the adventure"
+    ]
+  },
+  {
+    "id": "WI-005",
+    "location_title": "CABLE, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "ACTIVE",
+    "season": "SPR-FALL",
+    "reveal_title": "MOUNTAIN BIKE THE CAMBA TRAILS TOGETHER",
+    "bonus": "Reward yourselves with a burger and a beer in Cable afterwards!",
+    "summary_blurb": "Ride world-class singletrack through the Chequamegon National Forest.",
+    "steps": [
+      "Rent mountain bikes in Cable if you don't have your own",
+      "Start with the Rock Lake or Short & Fat trail for intermediate riding",
+      "Ride through hardwood forests, rolling hills, and lakeside terrain",
+      "Take a break at a scenic overlook and refuel with snacks",
+      "Clean up and head into town for a post-ride meal"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/CAMBA+Trails+Cable+WI"},
+      {"label": "CAMBA Trails", "url": "https://www.cambatrails.org/"}
+    ],
+    "notes": [
+      "Trails are free — donations support maintenance",
+      "Check CAMBA trail reports before going",
+      "Best riding is June through October"
+    ]
+  },
+  {
+    "id": "WI-006",
+    "location_title": "CEDARBURG, WI",
+    "cost": "$15-$40",
+    "time_of_day": "EITHER",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "EXPLORE HISTORIC DOWNTOWN CEDARBURG",
+    "bonus": "Stop at the Cedar Creek Winery in the old woolen mill!",
+    "summary_blurb": "Wander a charming small-town Main Street full of shops, art, and wine.",
+    "steps": [
+      "Start on Washington Avenue and browse independent shops and galleries",
+      "Visit the Cedar Creek Settlement — a restored 1864 woolen mill with a winery",
+      "Do a wine tasting at Cedar Creek Winery",
+      "Walk to the last covered bridge in Wisconsin at Covered Bridge Park",
+      "Grab lunch or coffee at one of the downtown cafes"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Downtown+Cedarburg+WI"},
+      {"label": "Visit Cedarburg", "url": "https://www.cedarburg.org/"}
+    ],
+    "notes": [
+      "Free street parking — fills up on festival weekends",
+      "The town hosts seasonal festivals — check the event calendar",
+      "Most shops open 10-5 daily"
+    ]
+  },
+  {
+    "id": "WI-007",
+    "location_title": "CHIPPEWA FALLS, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "INDOOR",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "TAKE THE LEINENKUGEL'S BREWERY TOUR",
+    "bonus": "Walk the Chippewa River State Trail along the water afterwards!",
+    "summary_blurb": "Tour one of America's oldest breweries and sample the lineup.",
+    "steps": [
+      "Head to the Leinenkugel's Brewery & Leinie Lodge in Chippewa Falls",
+      "Sign up for the brewery tour — walk-ins welcome, check seasonal hours",
+      "Tour the brewing facility and learn the 150+ year history",
+      "Enjoy free samples in the tasting room"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Leinenkugels+Brewery+Chippewa+Falls+WI"},
+      {"label": "Leinie Lodge", "url": "https://leinie.com/leinie-lodge"}
+    ],
+    "notes": [
+      "Tours are free — samples included",
+      "Must be 21+ for tastings with valid ID",
+      "Pair with a walk on the Chippewa River State Trail nearby"
+    ]
+  },
+  {
+    "id": "WI-008",
+    "location_title": "EAGLE RIVER, WI",
+    "cost": "$40-$100",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SUMMER",
+    "reveal_title": "RENT A PONTOON AND CRUISE THE EAGLE RIVER CHAIN OF LAKES",
+    "bonus": "Pack a cooler and anchor at a sandy beach for a swim break!",
+    "summary_blurb": "Cruise the world's largest chain of inland lakes on your own pontoon.",
+    "steps": [
+      "Reserve a pontoon rental from a local marina in Eagle River",
+      "Get a quick orientation and pick up a lake map",
+      "Cruise through the 28-lake chain connected by channels and rivers",
+      "Anchor at a sandy beach or island for a swim break",
+      "Spot eagles, loons, and herons along the way"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Eagle+River+Chain+of+Lakes+WI"},
+      {"label": "Eagle River Info", "url": "https://www.eagleriver.org/"}
+    ],
+    "notes": [
+      "Half-day and full-day rentals available — book ahead for weekends",
+      "Bring sunscreen, towels, and a cooler with snacks",
+      "No boating license required for pontoons"
+    ]
+  },
+  {
+    "id": "WI-009",
+    "location_title": "EAU CLAIRE, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SUMMER",
+    "reveal_title": "FLOAT THE CHIPPEWA RIVER ON INNER TUBES",
+    "bonus": "Grab tacos and margaritas at a downtown spot after your float!",
+    "summary_blurb": "Lazy-river tubing through town — bring snacks and drift.",
+    "steps": [
+      "Rent tubes from a local outfitter near Phoenix Park",
+      "Launch at the upstream put-in and float the Chippewa River",
+      "Drift through the middle of town for 1-2 hours",
+      "Exit at the designated take-out point",
+      "Walk to a downtown restaurant for food and drinks"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Chippewa+River+tubing+Eau+Claire+WI"},
+      {"label": "Visit Eau Claire", "url": "https://www.visiteauclaire.com/"}
+    ],
+    "notes": [
+      "Tubing depends on weather and water levels",
+      "Wear water shoes — some sections have rocky bottoms",
+      "Best from June through August"
+    ]
+  },
+  {
+    "id": "WI-010",
+    "location_title": "ELKHART LAKE, WI",
+    "cost": "$100-$300",
+    "time_of_day": "DAY",
+    "duration": "HALF DAY",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "DRIVE THE TRACK AT ROAD AMERICA",
+    "bonus": "Cool off with a swim in Elkhart Lake at the public beach!",
+    "summary_blurb": "Get behind the wheel on one of America's premier racetracks.",
+    "steps": [
+      "Book a driving experience at Road America in Elkhart Lake",
+      "Attend the safety briefing and meet your instructor",
+      "Take laps on the legendary 4-mile road course",
+      "After the track, drive into Elkhart Lake village for lunch by the water"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Road+America+Elkhart+Lake+WI"},
+      {"label": "Road America", "url": "https://www.roadamerica.com/"}
+    ],
+    "notes": [
+      "Experiences range from go-karts ($) to supercars ($$$)",
+      "Must have a valid driver's license and closed-toe shoes",
+      "Check event calendar — race weekends may limit public access"
+    ]
+  },
+  {
+    "id": "WI-011",
+    "location_title": "FOND DU LAC, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "STROLL LAKESIDE PARK AND VISIT THE LIGHTHOUSE",
+    "bonus": "Rent a paddleboat on the lagoon!",
+    "summary_blurb": "Walk through a lakeside park with a lighthouse, gardens, and a lagoon.",
+    "steps": [
+      "Park at Lakeside Park along Lake Winnebago",
+      "Walk out to the historic lighthouse at the end of the pier",
+      "Stroll through the flower gardens and along the paved paths",
+      "Rent a paddleboat on the lagoon if weather allows",
+      "Grab ice cream from a nearby spot and enjoy it in the park"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Lakeside+Park+Fond+du+Lac+WI"},
+      {"label": "Fond du Lac Parks", "url": "https://www.fdl.wi.gov/parks/"}
+    ],
+    "notes": [
+      "The park and lighthouse walk are free",
+      "Paddleboat rentals are seasonal — summer only",
+      "Nice sunset spot facing Lake Winnebago"
+    ]
+  },
+  {
+    "id": "WI-012",
+    "location_title": "GALESVILLE, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "HIKE THE TREMPEALEAU NATIONAL WILDLIFE REFUGE",
+    "bonus": "Stop at the historic Trempealeau Hotel for a walleye dinner!",
+    "summary_blurb": "Walk through marshlands and bluffs along the Mississippi River.",
+    "steps": [
+      "Drive to the Trempealeau National Wildlife Refuge visitor area",
+      "Pick up a trail map and start on the Prairie or Marsh Trail",
+      "Watch for bald eagles, herons, and other wildlife along the river",
+      "Drive the 4.5-mile wildlife auto tour loop for more scenery",
+      "Head to nearby Trempealeau for dinner at the historic hotel"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Trempealeau+National+Wildlife+Refuge+WI"},
+      {"label": "Refuge Info", "url": "https://www.fws.gov/refuge/trempealeau/"}
+    ],
+    "notes": [
+      "The refuge is free and open dawn to dusk",
+      "Bring binoculars for birding",
+      "Trails can be muddy in spring — wear appropriate footwear"
+    ]
+  },
+  {
+    "id": "WI-013",
+    "location_title": "GREEN BAY, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "TAKE A LAMBEAU FIELD STADIUM TOUR",
+    "bonus": "Visit the NEW Zoo & Adventure Park!",
+    "summary_blurb": "Go behind the scenes at the legendary home of the Green Bay Packers.",
+    "steps": [
+      "Book the Lambeau Field Stadium Tour online or at the Packers Pro Shop",
+      "Walk through the player tunnel onto the field",
+      "Visit the luxury suites, press box, and Packers Hall of Fame",
+      "Browse the Packers Pro Shop for gear",
+      "Grab lunch at one of the restaurants inside the Lambeau Atrium"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Lambeau+Field+Green+Bay+WI"},
+      {"label": "Stadium Tours", "url": "https://www.packers.com/lambeau-field/stadium-tours"}
+    ],
+    "notes": [
+      "Tours run year-round but schedules vary on game days",
+      "The Hall of Fame is included with the tour or available separately",
+      "Allow 60-90 minutes for the full tour"
+    ]
+  },
+  {
+    "id": "WI-014",
+    "location_title": "HAYWARD, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SUMMER",
+    "reveal_title": "VISIT WILDERNESS WALK ZOO AND EXPLORE DOWNTOWN HAYWARD",
+    "bonus": "Grab a giant scoop at West's Hayward Dairy on your way out!",
+    "summary_blurb": "Walk among free-roaming deer and native animals in a northwoods zoo.",
+    "steps": [
+      "Head to Wilderness Walk on the south end of Hayward",
+      "Walk the wooded paths and feed the free-roaming deer and animals",
+      "Check out the baby animal nursery if visiting in early summer",
+      "Drive into downtown Hayward and take a photo at the National Fresh Water Fishing Hall of Fame muskie",
+      "Cool down with ice cream at a local dairy shop"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Wilderness+Walk+Hayward+WI"},
+      {"label": "Hayward Info", "url": "https://www.haywardlakes.com/"}
+    ],
+    "notes": [
+      "Open seasonally — typically mid-May through Labor Day",
+      "Bring quarters for the animal feed dispensers",
+      "Great for a relaxed afternoon — plan about 2 hours"
+    ]
+  },
+  {
+    "id": "WI-015",
+    "location_title": "HUBERTUS, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "ANY",
+    "reveal_title": "HIKE TO THE SCENIC TOWER AT HOLY HILL",
+    "bonus": "Visit the gift shop and grab a bag of monastery caramels!",
+    "summary_blurb": "Climb the scenic tower at a hilltop basilica for panoramic views of the Kettle Moraine.",
+    "steps": [
+      "Drive to the Basilica of the National Shrine of Mary at Holy Hill",
+      "Climb the scenic tower for 360-degree views of the Kettle Moraine",
+      "Walk the grounds and the outdoor Stations of the Cross trail",
+      "Visit the gift shop inside the basilica"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Holy+Hill+Hubertus+WI"},
+      {"label": "Holy Hill", "url": "https://www.holyhill.com/"}
+    ],
+    "notes": [
+      "The scenic tower requires a small fee — grounds are free",
+      "Fall colors from the tower are spectacular (late September-October)",
+      "Dress respectfully for the basilica — it's an active church"
+    ]
+  },
+  {
+    "id": "WI-016",
+    "location_title": "JANESVILLE, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "WANDER THE ROTARY BOTANICAL GARDENS",
+    "bonus": "Pack a picnic and enjoy it in the garden's designated area!",
+    "summary_blurb": "Stroll through 20 acres of themed gardens with international flair.",
+    "steps": [
+      "Head to Rotary Botanical Gardens on the south side of Janesville",
+      "Pick up a garden map and wander through the themed sections",
+      "Explore the Japanese Garden, English Cottage Garden, and Sunken Garden",
+      "Find a quiet bench and enjoy the scenery together"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Rotary+Botanical+Gardens+Janesville+WI"},
+      {"label": "Rotary Gardens", "url": "https://www.rotarybotanicalgardens.org/"}
+    ],
+    "notes": [
+      "Admission is free — donations appreciated",
+      "Peak bloom is June through September",
+      "Holiday light show runs in winter if you visit off-season"
+    ]
+  },
+  {
+    "id": "WI-017",
+    "location_title": "KOHLER, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "TOUR THE KOHLER DESIGN CENTER AND EXPLORE THE VILLAGE",
+    "bonus": "Treat yourselves to lunch at one of the Kohler restaurants!",
+    "summary_blurb": "See stunning kitchen and bath designs in a free museum-like showroom.",
+    "steps": [
+      "Start at the Kohler Design Center on Highland Drive",
+      "Browse three floors of kitchen, bath, and design exhibits",
+      "Check out the art gallery and Kohler history displays",
+      "Walk through the manicured Kohler village streets",
+      "Stop for a nice lunch at one of the village restaurants"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Kohler+Design+Center+Kohler+WI"},
+      {"label": "Kohler", "url": "https://www.kohler.com/en/visit-kohler"}
+    ],
+    "notes": [
+      "The Design Center is free and open Monday-Saturday",
+      "The village of Kohler has a planned-community charm worth walking",
+      "Pair with a trip to Kohler-Andrae State Park 15 minutes east"
+    ]
+  },
+  {
+    "id": "WI-018",
+    "location_title": "LA CROSSE, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "HIKE GRANDAD BLUFF FOR A SUNSET VIEW",
+    "bonus": "Grab dinner at a restaurant on the river after the hike!",
+    "summary_blurb": "Climb to the top of Grandad Bluff for sweeping views of the Mississippi River valley.",
+    "steps": [
+      "Drive up to Grandad Bluff Park (you can also hike from the base)",
+      "Walk to the main overlook for a panoramic view of three states",
+      "Hike the bluff trails if you want more exploration",
+      "Time it for golden hour if you can — the sunset is incredible",
+      "Head downtown to a Mississippi River restaurant for dinner"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Grandad+Bluff+La+Crosse+WI"},
+      {"label": "Explore La Crosse", "url": "https://www.explorelacrosse.com/"}
+    ],
+    "notes": [
+      "Free parking at the top — the road is steep but paved",
+      "The overlook gets crowded at sunset on weekends",
+      "Bring layers — it's windy at the top"
+    ]
+  },
+  {
+    "id": "WI-019",
+    "location_title": "LAKE GENEVA, WI",
+    "cost": "$15-$40",
+    "time_of_day": "EITHER",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "TAKE A SCENIC BOAT CRUISE ON GENEVA LAKE",
+    "bonus": "Walk part of the 21-mile lakeside Shore Path afterwards!",
+    "summary_blurb": "Cruise past historic estates and beautiful shoreline on Geneva Lake.",
+    "steps": [
+      "Book a cruise with Lake Geneva Cruise Line at the Riviera Docks",
+      "Choose a narrated tour — the full lake tour or a mailboat tour",
+      "Sit back and enjoy the historic mansions and scenery from the water",
+      "After the cruise, stroll the lakeside Shore Path",
+      "Browse the shops and restaurants along Main Street"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Lake+Geneva+Cruise+Line+WI"},
+      {"label": "Cruise Line", "url": "https://www.cruiselakegeneva.com/"}
+    ],
+    "notes": [
+      "The mailboat tour (with the famous jumping mail carrier) runs in summer",
+      "Book ahead for weekend cruises",
+      "Evening cruises are available in peak season"
+    ]
+  },
+  {
+    "id": "WI-020",
+    "location_title": "MADISON, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "VISIT THE OLBRICH BOTANICAL GARDENS",
+    "bonus": "Grab Thai food on Atwood Avenue after your visit!",
+    "summary_blurb": "Wander 16 acres of outdoor gardens and a tropical conservatory.",
+    "steps": [
+      "Head to Olbrich Botanical Gardens on the east side of Madison",
+      "Walk through the outdoor gardens — the rose garden and rock garden are highlights",
+      "Step inside the Bolz Conservatory for a tropical escape (small fee)",
+      "Sit by the lakefront garden area and enjoy the view of Lake Monona"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Olbrich+Botanical+Gardens+Madison+WI"},
+      {"label": "Olbrich Gardens", "url": "https://www.olbrich.org/"}
+    ],
+    "notes": [
+      "Outdoor gardens are free — the conservatory has a small admission fee",
+      "The conservatory is open year-round (great winter date)",
+      "Holiday light show in December"
+    ]
+  },
+  {
+    "id": "WI-021",
+    "location_title": "MADISON, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "EXPLORE THE DANE COUNTY FARMERS' MARKET ON THE CAPITOL SQUARE",
+    "bonus": "Take a free tour of the Wisconsin State Capitol building!",
+    "summary_blurb": "Browse the largest producer-only farmers' market in the country.",
+    "steps": [
+      "Head to Capitol Square on a Saturday morning (market runs April-November)",
+      "Walk the full loop around the Capitol — grab cheese curds, pastries, and flowers",
+      "Pick up fresh produce, bread, and a bouquet",
+      "Take a free tour of the State Capitol building (offered on the hour)",
+      "Grab brunch at a nearby restaurant on the square"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Wisconsin+State+Capitol+Madison+WI"},
+      {"label": "Farmers' Market", "url": "https://dcfm.org/"}
+    ],
+    "notes": [
+      "Saturday market runs 6:15 AM-1:45 PM, April through November",
+      "Arrive early for the best selection and easier parking",
+      "Bring cash — not all vendors accept cards"
+    ]
+  },
+  {
+    "id": "WI-022",
+    "location_title": "MADISON, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "WALK TO PICNIC POINT AND HANG OUT AT THE MEMORIAL UNION TERRACE",
+    "bonus": "Get Babcock Hall ice cream from the UW Dairy Store!",
+    "summary_blurb": "A lakeside walk to a secluded peninsula followed by Terrace hangs.",
+    "steps": [
+      "Park near the Lakeshore Nature Preserve and walk out to Picnic Point",
+      "Follow the 0.7-mile path through woods to the tip of the peninsula",
+      "Find a fire pit or bench and enjoy the views of Lake Mendota",
+      "Walk back and head to the Memorial Union Terrace",
+      "Grab Babcock Hall ice cream or a pitcher and watch the sunset"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Picnic+Point+Madison+WI"},
+      {"label": "Union Terrace", "url": "https://union.wisc.edu/visit/terrace-at-the-memorial-union/"}
+    ],
+    "notes": [
+      "Both are free — bring your own snacks or buy at the Terrace",
+      "The Terrace has live music many summer evenings",
+      "Picnic Point has fire pits available first-come, first-served"
+    ]
+  },
+  {
+    "id": "WI-023",
+    "location_title": "MADISON, WI",
+    "cost": "$0-$15",
+    "time_of_day": "EITHER",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "BROWSE THE CHAZEN MUSEUM OF ART AND WALK STATE STREET",
+    "bonus": "Try a different cuisine at one of State Street's many restaurants!",
+    "summary_blurb": "Free world-class art museum followed by a walk down Madison's iconic street.",
+    "steps": [
+      "Start at the Chazen Museum of Art on the UW campus — admission is free",
+      "Explore the permanent collection spanning centuries and cultures",
+      "Check for rotating exhibits and any evening events",
+      "Walk down State Street, browsing bookshops and boutiques",
+      "Pick a restaurant for dinner — the options span every cuisine"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Chazen+Museum+of+Art+Madison+WI"},
+      {"label": "Chazen Museum", "url": "https://chazen.wisc.edu/"}
+    ],
+    "notes": [
+      "The Chazen is free and open year-round (closed Mondays)",
+      "State Street is pedestrian-only between the Capitol and campus",
+      "Evenings on State Street are lively — restaurants, bars, and live music"
+    ]
+  },
+  {
+    "id": "WI-024",
+    "location_title": "MANITOWOC, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "INDOOR",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "TOUR THE SUBMARINE AT THE WISCONSIN MARITIME MUSEUM",
+    "bonus": "Walk the Manitowoc Riverwalk along the harbor afterwards!",
+    "summary_blurb": "Explore a real WWII submarine and Lake Michigan maritime history.",
+    "steps": [
+      "Head to the Wisconsin Maritime Museum in downtown Manitowoc",
+      "Tour the USS Cobia — a WWII submarine docked right outside",
+      "Explore the museum exhibits on Great Lakes shipping and shipbuilding",
+      "Walk the Manitowoc Riverwalk along the harbor"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Wisconsin+Maritime+Museum+Manitowoc+WI"},
+      {"label": "Maritime Museum", "url": "https://www.wisconsinmaritime.org/"}
+    ],
+    "notes": [
+      "Submarine tour is included with museum admission",
+      "The submarine has tight spaces — not for the claustrophobic",
+      "Allow about 2 hours for the museum and sub tour"
+    ]
+  },
+  {
+    "id": "WI-025",
+    "location_title": "MERRIMAC, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "RIDE THE FREE MERRIMAC FERRY AND HIKE PARFREY'S GLEN",
+    "bonus": "Stop for a burger and a shake in Merrimac after your hike!",
+    "summary_blurb": "Take a free car ferry across the Wisconsin River, then hike a hidden canyon.",
+    "steps": [
+      "Drive to the Merrimac Ferry landing and ride across the Wisconsin River (free!)",
+      "Drive to Parfrey's Glen State Natural Area (15 min from the ferry)",
+      "Hike the 1.5-mile trail into the glen — a narrow canyon with waterfalls",
+      "Wade through the creek crossings together (wear shoes that can get wet)",
+      "Take the ferry back and grab food in Merrimac"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Parfreys+Glen+State+Natural+Area+WI"},
+      {"label": "Merrimac Ferry", "url": "https://wisconsindot.gov/Pages/travel/road/merrimac-ferry/default.aspx"}
+    ],
+    "notes": [
+      "The ferry runs April through November, dawn to dusk",
+      "Parfrey's Glen trail is rocky and wet — wear sturdy waterproof shoes",
+      "State park pass required for the glen parking lot"
+    ]
+  },
+  {
+    "id": "WI-026",
+    "location_title": "MILWAUKEE, WI",
+    "cost": "$15-$40",
+    "time_of_day": "EITHER",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "EXPLORE THE HISTORIC THIRD WARD AND MILWAUKEE PUBLIC MARKET",
+    "bonus": "Catch a show at the Milwaukee Rep or Pabst Theater!",
+    "summary_blurb": "Browse the Public Market, boutique shops, and galleries in Milwaukee's coolest neighborhood.",
+    "steps": [
+      "Start at the Milwaukee Public Market — grab a snack or coffee",
+      "Browse the specialty food vendors and pick up treats to share",
+      "Walk through the Third Ward's art galleries and boutique shops",
+      "Stroll along the Milwaukee Riverwalk",
+      "Grab dinner or drinks at one of the neighborhood's restaurants"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Milwaukee+Public+Market+WI"},
+      {"label": "Third Ward", "url": "https://historicthirdward.org/"}
+    ],
+    "notes": [
+      "The Public Market is open daily — weekday mornings are less crowded",
+      "Street parking and nearby garages available",
+      "The neighborhood hosts summer festivals and gallery nights"
+    ]
+  },
+  {
+    "id": "WI-027",
+    "location_title": "MILWAUKEE, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "INDOOR",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "TAKE THE LAKEFRONT BREWERY TOUR",
+    "bonus": "Walk the lakefront trail along Lake Michigan after the tour!",
+    "summary_blurb": "The most entertaining brewery tour in Wisconsin — with polka.",
+    "steps": [
+      "Book the Lakefront Brewery tour online (they sell out)",
+      "Show up and enjoy the high-energy, comedy-filled tour",
+      "Sample four beers included with your tour ticket",
+      "Browse the merch shop and grab a souvenir glass",
+      "Walk the lakefront trail or explore the nearby Beerline Trail"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Lakefront+Brewery+Milwaukee+WI"},
+      {"label": "Lakefront Brewery", "url": "https://www.lakefrontbrewery.com/"}
+    ],
+    "notes": [
+      "Book online — Friday and Saturday tours sell out fast",
+      "Must be 21+ with valid ID",
+      "The tour is known for being fun and entertaining, not stuffy"
+    ]
+  },
+  {
+    "id": "WI-028",
+    "location_title": "MILWAUKEE, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "INDOOR",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "VISIT THE MILWAUKEE ART MUSEUM",
+    "bonus": "Watch the Burke Brise Soleil wings open or close at 10 AM, noon, or closing!",
+    "summary_blurb": "World-class art in a building that's a work of art itself.",
+    "steps": [
+      "Head to the Milwaukee Art Museum on the lakefront",
+      "Time your visit to see the Burke Brise Soleil wings open or close",
+      "Explore the permanent collection — over 30,000 works",
+      "Check the calendar for special exhibitions",
+      "Walk the lakefront path or War Memorial plaza afterwards"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Milwaukee+Art+Museum+WI"},
+      {"label": "Art Museum", "url": "https://mam.org/"}
+    ],
+    "notes": [
+      "Wings open at 10 AM, fold at noon, reopen, close at museum closing",
+      "Check for free admission days and evening events",
+      "The building itself (designed by Calatrava) is worth the visit"
+    ]
+  },
+  {
+    "id": "WI-029",
+    "location_title": "MINERAL POINT, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "DO A GALLERY WALK AND VISIT A CRAFT BREWERY IN MINERAL POINT",
+    "bonus": "Check if a live glass-blowing demo is happening at Brewery Pottery!",
+    "summary_blurb": "Browse artist studios, galleries, and a brewery in Wisconsin's most artistic small town.",
+    "steps": [
+      "Start on High Street and wander through the artist galleries and studios",
+      "Watch artists at work — many studios are open to visitors",
+      "Visit Pendarvis, the restored Cornish miners' village (seasonal)",
+      "Head to a local brewery for a craft beer and a bite"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Mineral+Point+WI+High+Street"},
+      {"label": "Visit Mineral Point", "url": "https://www.mineralpoint.com/"}
+    ],
+    "notes": [
+      "Gallery Night events happen several times a year — check the calendar",
+      "Many studios close on weekdays — weekends are best for visiting",
+      "The town has deep Cornish mining history worth exploring"
+    ]
+  },
+  {
+    "id": "WI-030",
+    "location_title": "MINOCQUA, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SUMMER",
+    "reveal_title": "SPEND THE DAY AT WILDWOOD WILDLIFE PARK AND ZOO",
+    "bonus": "Rent a kayak or canoe on Lake Minocqua afterwards!",
+    "summary_blurb": "Feed giraffes, ride camels, and meet hundreds of animals at a northwoods zoo.",
+    "steps": [
+      "Head to Wildwood Wildlife Park & Nature Center in Minocqua",
+      "Walk through the park and interact with the animals — many are feed-friendly",
+      "Check the schedule for feeding times and animal encounters",
+      "Take the safari ride if available",
+      "Cool off with a swim or kayak rental on Lake Minocqua"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Wildwood+Wildlife+Park+Minocqua+WI"},
+      {"label": "Wildwood", "url": "https://www.wildwoodwildlifepark.com/"}
+    ],
+    "notes": [
+      "Open seasonally — typically mid-May through late September",
+      "Bring cash for animal food and extras",
+      "Plan 2-3 hours for the full park"
+    ]
+  },
+  {
+    "id": "WI-031",
+    "location_title": "MOUNT HOREB, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "EXPLORE CAVE OF THE MOUNDS AND THE TROLLWAY",
+    "bonus": "Walk through downtown Mount Horeb and spot all the troll sculptures!",
+    "summary_blurb": "Tour a dazzling underground cave and walk a troll-themed trail.",
+    "steps": [
+      "Drive to Cave of the Mounds west of Mount Horeb",
+      "Take the guided cave tour through the limestone formations",
+      "Explore the aboveground gardens and rock displays",
+      "Head into Mount Horeb and walk the Trollway — spot all the troll sculptures",
+      "Browse the Scandinavian-themed shops on Main Street"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Cave+of+the+Mounds+Mount+Horeb+WI"},
+      {"label": "Cave of the Mounds", "url": "https://www.caveofthemounds.com/"}
+    ],
+    "notes": [
+      "The cave is a constant 50°F — bring a light jacket",
+      "Open year-round — a great winter date option",
+      "Allow about 1 hour for the cave tour"
+    ]
+  },
+  {
+    "id": "WI-032",
+    "location_title": "NEW LISBON, WI",
+    "cost": "$40-$100",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "ACTIVE",
+    "season": "SPR-FALL",
+    "reveal_title": "GO ON A GUIDED ATV TOUR THROUGH THE CASTLE ROCK LAKE WISCONSIN AREA",
+    "bonus": "Rent kayaks or paddle boards and hit the water afterwards!",
+    "summary_blurb": "Tear through trails on a guided ATV tour near Castle Rock Lake.",
+    "steps": [
+      "Book a guided ATV tour with a local outfitter near New Lisbon",
+      "Get a safety briefing and gear up",
+      "Ride through wooded trails and open terrain around the Castle Rock area",
+      "After the ride, head to Castle Rock Lake for water activities",
+      "Rent kayaks or paddleboards and spend time on the water"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Castle+Rock+Lake+New+Lisbon+WI"},
+      {"label": "New Lisbon Info", "url": "https://www.newlisbonwi.com/"}
+    ],
+    "notes": [
+      "Must be 16+ with valid ID to drive an ATV on most tours",
+      "Wear long pants, closed-toe shoes, and be ready to get dusty",
+      "Book ahead — guided tours have limited group sizes"
+    ]
+  },
+  {
+    "id": "WI-033",
+    "location_title": "OSHKOSH, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "INDOOR",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "GEEK OUT AT THE EAA AVIATION MUSEUM",
+    "bonus": "Check if any flight experiences or simulator rides are available!",
+    "summary_blurb": "Walk among historic aircraft and dream about the sky together.",
+    "steps": [
+      "Head to the EAA Aviation Museum south of Oshkosh",
+      "Explore over 200 aircraft including WWII warbirds and homebuilts",
+      "Check out the flight simulators and hands-on exhibits",
+      "Walk through the Eagle Hangar for the military aviation collection",
+      "Browse the museum shop for aviation gifts"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/EAA+Aviation+Museum+Oshkosh+WI"},
+      {"label": "EAA Museum", "url": "https://www.eaa.org/eaa-museum"}
+    ],
+    "notes": [
+      "Open year-round — great rainy-day date",
+      "The EAA AirVenture air show is held here annually in late July",
+      "Allow at least 2 hours to see everything"
+    ]
+  },
+  {
+    "id": "WI-034",
+    "location_title": "PEPIN, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "VISIT PEPIN VILLAGE AND GET PIE IN STOCKHOLM",
+    "bonus": "Drive the Great River Road scenic route along the Mississippi!",
+    "summary_blurb": "Browse a tiny river town and eat some of Wisconsin's best pie.",
+    "steps": [
+      "Drive to Pepin on the Mississippi River via the Great River Road",
+      "Walk the small downtown — browse the shops and the Pepin Historical Museum",
+      "Drive 3 miles south to Stockholm and visit the Stockholm Pie & General Store",
+      "Order a slice (or a whole pie) and enjoy it with a river view",
+      "Drive the Great River Road north or south for scenic bluff views"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Pepin+WI"},
+      {"label": "Stockholm Pie", "url": "https://www.stockholmpie.com/"}
+    ],
+    "notes": [
+      "Stockholm Pie is seasonal — check hours before visiting",
+      "Pepin is the birthplace of Laura Ingalls Wilder",
+      "The Great River Road is especially beautiful in fall"
+    ]
+  },
+  {
+    "id": "WI-035",
+    "location_title": "POTOSI, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "INDOOR",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "TOUR THE NATIONAL BREWERY MUSEUM AND POTOSI BREWING",
+    "bonus": "Drive the Great River Road and stop at the Potosi overlook!",
+    "summary_blurb": "Explore America's brewing history and taste local brews in a tiny river town.",
+    "steps": [
+      "Head to the National Brewery Museum in Potosi",
+      "Tour the museum — it covers the full history of American brewing",
+      "Sample beers at the Potosi Brewing Company taproom next door",
+      "Check out the transportation museum on the lower level",
+      "Drive to a Great River Road overlook for Mississippi views"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/National+Brewery+Museum+Potosi+WI"},
+      {"label": "Potosi Brewing", "url": "https://www.potosibrewery.com/"}
+    ],
+    "notes": [
+      "Museum admission is affordable — check for combo deals with tastings",
+      "Potosi is remote — plan it as part of a scenic drive day",
+      "The restaurant serves solid pub food"
+    ]
+  },
+  {
+    "id": "WI-036",
+    "location_title": "PRAIRIE DU CHIEN, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "HIKE WYALUSING STATE PARK AND SEE WHERE THE RIVERS MEET",
+    "bonus": "Visit the Villa Louis historic mansion on St. Feriole Island!",
+    "summary_blurb": "Stand at the confluence of the Mississippi and Wisconsin Rivers from high bluffs.",
+    "steps": [
+      "Drive to Wyalusing State Park south of Prairie du Chien",
+      "Head to Point Lookout for the iconic view of the two rivers meeting",
+      "Hike the Sentinel Ridge Trail along the bluff for more viewpoints",
+      "Explore the Indian Mounds trail — the park has effigy mounds",
+      "Drive into Prairie du Chien and visit Villa Louis if time allows"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Wyalusing+State+Park+WI"},
+      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/wyalusing"}
+    ],
+    "notes": [
+      "State park vehicle pass required ($13/day or annual)",
+      "The bluffs are spectacular in fall color season",
+      "Some trails are steep — wear sturdy shoes"
+    ]
+  },
+  {
+    "id": "WI-037",
+    "location_title": "SHEBOYGAN, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "WALK THE DUNES AT KOHLER-ANDRAE STATE PARK",
+    "bonus": "Grab a Sheboygan bratwurst on the way home — it's the Bratwurst Capital!",
+    "summary_blurb": "Walk along Lake Michigan beaches and through rare sand dunes.",
+    "steps": [
+      "Drive to Kohler-Andrae State Park south of Sheboygan",
+      "Walk the Cordwalk Nature Trail through the dunes and wetlands",
+      "Spend time on the beach — it's one of the best on Lake Michigan",
+      "Hike the Woodland Dunes Nature Trail for more exploring",
+      "Stop for a bratwurst in Sheboygan on the way out"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Kohler+Andrae+State+Park+Sheboygan+WI"},
+      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/kohlerandrae"}
+    ],
+    "notes": [
+      "State park vehicle pass required ($13/day or annual)",
+      "The beach sand dunes are fragile — stay on marked trails",
+      "Lake Michigan water is cold even in summer — but refreshing"
+    ]
+  },
+  {
+    "id": "WI-038",
+    "location_title": "SISTER BAY, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "EAT AT AL JOHNSON'S (GOATS ON THE ROOF!) AND BIKE DOOR COUNTY",
+    "bonus": "Grab a cherry pie or cherry wine from a Door County orchard!",
+    "summary_blurb": "Have Swedish pancakes under a goat-covered roof, then bike through Door County.",
+    "steps": [
+      "Head to Al Johnson's Swedish Restaurant in Sister Bay",
+      "Watch the goats grazing on the sod roof while you wait",
+      "Order the Swedish pancakes with lingonberries — it's the signature dish",
+      "Rent bikes nearby and ride through the scenic countryside",
+      "Stop at a cherry orchard or winery along the way"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Al+Johnsons+Swedish+Restaurant+Sister+Bay+WI"},
+      {"label": "Al Johnson's", "url": "https://www.aljohnsons.com/"}
+    ],
+    "notes": [
+      "Al Johnson's is cash-only (or check) — no credit cards",
+      "Expect a wait on summer weekends — it's worth it",
+      "The goats are on the roof from spring through fall"
+    ]
+  },
+  {
+    "id": "WI-039",
+    "location_title": "SPRING GREEN, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "HALF DAY",
+    "setting": "INDOOR",
+    "effort": "CHILL",
+    "season": "ANY",
+    "reveal_title": "GET LOST IN THE HOUSE ON THE ROCK",
+    "bonus": "Grab dinner at the Shed in Spring Green after your visit!",
+    "summary_blurb": "Explore one of Wisconsin's most bizarre and fascinating attractions.",
+    "steps": [
+      "Drive to House on the Rock south of Spring Green",
+      "Choose how many sections to explore — there are three to walk through",
+      "Marvel at the Infinity Room, the world's largest carousel, and the bizarre collections",
+      "Take your time — there's no rushing through this place",
+      "Stop in Spring Green for dinner afterwards"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/House+on+the+Rock+Spring+Green+WI"},
+      {"label": "House on the Rock", "url": "https://www.thehouseontherock.com/"}
+    ],
+    "notes": [
+      "Allow 3-4 hours if you want to see all three sections",
+      "Tickets are sold by section — Section 1 is the must-see",
+      "The Infinity Room extends 218 feet over the valley — not for those afraid of heights"
+    ]
+  },
+  {
+    "id": "WI-040",
+    "location_title": "SPRING GREEN, WI",
+    "cost": "$40-$100",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "TAKE A GUIDED TOUR OF TALIESIN — FRANK LLOYD WRIGHT'S HOME",
+    "bonus": "Drive to Tower Hill State Park nearby for a quick bluff hike!",
+    "summary_blurb": "Tour the home, studio, and estate of America's most famous architect.",
+    "steps": [
+      "Book a tour at Taliesin in advance — several tour options available",
+      "Take the guided tour through Wright's home, studio, and grounds",
+      "Learn about Wright's design philosophy and his connection to the Wisconsin landscape",
+      "Explore the gift shop and visitor center",
+      "Drive to nearby Tower Hill State Park for a short bluff hike with river views"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Taliesin+Spring+Green+WI"},
+      {"label": "Taliesin", "url": "https://www.taliesinpreservation.org/"}
+    ],
+    "notes": [
+      "Tours are seasonal — typically May through October",
+      "Book in advance — popular tours sell out",
+      "Different tour levels are available at different price points"
+    ]
+  },
+  {
+    "id": "WI-041",
+    "location_title": "STEVENS POINT, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "BIKE OR HIKE THE GREEN CIRCLE TRAIL",
+    "bonus": "Tour the Stevens Point Brewery (one of Wisconsin's oldest) afterwards!",
+    "summary_blurb": "Follow a 26-mile loop trail through woods, rivers, and prairies.",
+    "steps": [
+      "Park at Pfiffner Pioneer Park or another trailhead along the Green Circle",
+      "Hike or bike a section of the 26-mile loop through varied terrain",
+      "Cross the Wisconsin River and enjoy the riverside stretches",
+      "Pick a section that matches your energy — some are paved, some are woodsy",
+      "End at a local restaurant or the Stevens Point Brewery for refreshments"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Green+Circle+Trail+Stevens+Point+WI"},
+      {"label": "Green Circle Trail", "url": "https://www.greencircletrail.org/"}
+    ],
+    "notes": [
+      "The trail is free and open year-round",
+      "Some segments are unpaved — check conditions if biking",
+      "The Standing Rocks segment has great geological features"
+    ]
+  },
+  {
+    "id": "WI-042",
+    "location_title": "STOCKHOLM, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "HALF DAY",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "DRIVE THE GREAT RIVER ROAD AND EXPLORE TINY STOCKHOLM",
+    "bonus": "Stop at every scenic overlook and take photos of the Mississippi bluffs!",
+    "summary_blurb": "Cruise one of America's most scenic drives and explore a village of 66 people.",
+    "steps": [
+      "Start your Great River Road drive from wherever you're coming from",
+      "Stop at scenic overlooks along the Mississippi River bluffs",
+      "Pull into Stockholm — population 66 — and browse the art galleries",
+      "Visit the Stockholm Pie & General Store for homemade pie",
+      "Continue your drive north or south along the river"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Stockholm+WI"},
+      {"label": "Great River Road", "url": "https://www.wigreatriverroad.org/"}
+    ],
+    "notes": [
+      "Stockholm shops and bakeries are seasonal — check hours",
+      "The drive is gorgeous in fall color season (late September-October)",
+      "Combine with Pepin (3 miles north) for a full day trip"
+    ]
+  },
+  {
+    "id": "WI-043",
+    "location_title": "STOUGHTON, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SUMMER",
+    "reveal_title": "PADDLE THE YAHARA RIVER TOGETHER",
+    "bonus": "Explore downtown Stoughton's Norwegian-themed Main Street!",
+    "summary_blurb": "Canoe or kayak a gentle river through farmland and wetlands.",
+    "steps": [
+      "Rent canoes or kayaks from a local outfitter in Stoughton",
+      "Launch on the Yahara River and paddle downstream",
+      "Float through wetlands, farmland, and gentle stretches",
+      "Watch for herons, turtles, and other wildlife along the banks",
+      "Walk downtown Stoughton's Main Street for a Norwegian-themed vibe"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Yahara+River+Stoughton+WI"},
+      {"label": "Stoughton Info", "url": "https://www.stoughtonwi.com/"}
+    ],
+    "notes": [
+      "The river is calm and beginner-friendly",
+      "Bring sunscreen and water — there's no shade on the river",
+      "Best paddling is June through September"
+    ]
+  },
+  {
+    "id": "WI-044",
+    "location_title": "STURGEON BAY, WI",
+    "cost": "$40-$100",
+    "time_of_day": "DAY",
+    "duration": "HALF DAY",
+    "setting": "BOTH",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "HIT THE DOOR COUNTY WINE TRAIL",
+    "bonus": "End the day with a fish boil at a Door County restaurant!",
+    "summary_blurb": "Sip your way through scenic Door County wineries.",
+    "steps": [
+      "Start in Sturgeon Bay and pick 2-3 wineries from the Door County Wine Trail",
+      "Do tastings at each stop — each winery has its own vibe and specialties",
+      "Grab cheese and crackers to share between stops",
+      "Enjoy the vineyard scenery and waterfront locations",
+      "End the day with a traditional Door County fish boil for dinner"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Door+County+wineries+Sturgeon+Bay+WI"},
+      {"label": "Door County Wine Trail", "url": "https://www.doorcountywinetrail.com/"}
+    ],
+    "notes": [
+      "Designate a driver or use a tour service",
+      "Most wineries are open spring through fall — check individual hours",
+      "Fish boils are a Door County tradition — look for the outdoor boilover show"
+    ]
+  },
+  {
+    "id": "WI-045",
+    "location_title": "SUPERIOR, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "HIKE TO BIG MANITOU FALLS — WISCONSIN'S TALLEST WATERFALL",
+    "bonus": "Drive across the Bong Bridge to Duluth for dinner with a harbor view!",
+    "summary_blurb": "See Wisconsin's highest waterfall plunge 165 feet through a gorge.",
+    "steps": [
+      "Drive to Pattison State Park south of Superior",
+      "Follow the short trail to the Big Manitou Falls overlook",
+      "Take in the 165-foot waterfall — the tallest in Wisconsin",
+      "Hike the trail to Little Manitou Falls for a second waterfall",
+      "If time allows, cross into Duluth, MN for dinner"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Pattison+State+Park+Superior+WI"},
+      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/pattison"}
+    ],
+    "notes": [
+      "State park vehicle pass required ($13/day or annual)",
+      "The falls are most impressive in spring and after rain",
+      "The trail to the falls is short but has stairs"
+    ]
+  },
+  {
+    "id": "WI-046",
+    "location_title": "TREGO, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SUMMER",
+    "reveal_title": "CANOE THE NAMEKAGON RIVER THROUGH THE NATIONAL SCENIC RIVERWAY",
+    "bonus": "Pack a picnic and pull over at a sandbar for a riverside lunch!",
+    "summary_blurb": "Paddle a wild, pristine river through the St. Croix National Scenic Riverway.",
+    "steps": [
+      "Book a canoe or kayak rental with shuttle service from a Trego outfitter",
+      "Get dropped off upstream and paddle back to the outfitter",
+      "Drift through old-growth forest and sandy banks",
+      "Pull over at a sandbar for a swim or picnic break",
+      "Watch for bald eagles, otters, and turtles along the way"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Namekagon+River+Trego+WI"},
+      {"label": "National Scenic Riverway", "url": "https://www.nps.gov/sacn/index.htm"}
+    ],
+    "notes": [
+      "The river is calm and great for beginners",
+      "Bring waterproof bags for phones and snacks",
+      "Book trips in advance for summer weekends"
+    ]
+  },
+  {
+    "id": "WI-047",
+    "location_title": "TWO RIVERS, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "2-4H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SPR-FALL",
+    "reveal_title": "HIKE AND BEACH-HOP AT POINT BEACH STATE FOREST",
+    "bonus": "Visit the Point Beach lighthouse — one of the oldest on Lake Michigan!",
+    "summary_blurb": "Walk miles of Lake Michigan shoreline through dunes and forest.",
+    "steps": [
+      "Drive to Point Beach State Forest north of Two Rivers",
+      "Start with the Rawley Point Trail along the Lake Michigan shore",
+      "Walk the beach and hunt for beach glass and interesting rocks",
+      "Visit the Rawley Point Lighthouse (exterior viewing)",
+      "Hike the Red Pine Trail through the interior forest"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Point+Beach+State+Forest+Two+Rivers+WI"},
+      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/StateForests/pointbeach"}
+    ],
+    "notes": [
+      "State park vehicle pass required ($13/day or annual)",
+      "The beach is long and uncrowded even in summer",
+      "The lighthouse is photogenic but not open for interior tours"
+    ]
+  },
+  {
+    "id": "WI-048",
+    "location_title": "WAUSAU, WI",
+    "cost": "$0-$15",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "ANY",
+    "reveal_title": "HIKE RIB MOUNTAIN FOR PANORAMIC VIEWS",
+    "bonus": "Grab hot cocoa or a meal at a Wausau restaurant after the hike!",
+    "summary_blurb": "Hike one of the highest points in Wisconsin for sweeping views of the countryside.",
+    "steps": [
+      "Drive to Rib Mountain State Park on the west side of Wausau",
+      "Hike the trail to the observation tower at the summit",
+      "Take in the panoramic views of the surrounding farmland and forests",
+      "Explore the other hiking trails if you want a longer outing",
+      "Head into Wausau for food and drinks"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Rib+Mountain+State+Park+Wausau+WI"},
+      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/ribmt"}
+    ],
+    "notes": [
+      "State park vehicle pass required ($13/day or annual)",
+      "In winter, Granite Peak ski area operates on the mountain",
+      "The summit trail is moderate — about 1 mile round trip"
+    ]
+  },
+  {
+    "id": "WI-049",
+    "location_title": "WAUPACA, WI",
+    "cost": "$40-$100",
+    "time_of_day": "NIGHT",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "MODERATE",
+    "season": "SUMMER",
+    "reveal_title": "GO ON A CLEAR KAYAK GLOW TOUR UNDERNEATH THE STARS!",
+    "bonus": "Look into their daytime rentals and rent an e-bike, paddleboard, or kayak during the day!",
+    "summary_blurb": "Paddle lit-up clear kayaks on a crystal-clear lake under the night sky.",
+    "steps": [
+      "Book the Clear Kayak Glow Tour with a Waupaca outfitter in advance",
+      "Arrive at sunset and get your gear and safety briefing",
+      "Paddle out on crystal-clear water in LED-lit transparent kayaks",
+      "Watch the lake bottom light up beneath you as the sky darkens",
+      "Float under the stars and enjoy the surreal experience together"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Clear+Kayak+Glow+Tour+Waupaca+WI"},
+      {"label": "Waupaca Info", "url": "https://www.waupacaareachamber.com/"}
+    ],
+    "notes": [
+      "Book well in advance — glow tours are extremely popular",
+      "Tours are weather-dependent and may cancel for storms",
+      "Check if daytime e-bike and paddleboard rentals are available to extend your day"
+    ]
+  },
+  {
+    "id": "WI-050",
+    "location_title": "WISCONSIN DELLS, WI",
+    "cost": "$15-$40",
+    "time_of_day": "DAY",
+    "duration": "1-2H",
+    "setting": "OUTDOOR",
+    "effort": "CHILL",
+    "season": "SPR-FALL",
+    "reveal_title": "TAKE THE LOST CANYON HORSE-DRAWN CARRIAGE TOUR",
+    "bonus": "Hike the Witches Gulch trail nearby for more canyon views!",
+    "summary_blurb": "Ride a horse-drawn carriage through the deepest and longest land canyon in Wisconsin.",
+    "steps": [
+      "Head to Lost Canyon Tours on Canyon Road in the Dells",
+      "Board a horse-drawn carriage for the guided canyon tour",
+      "Ride through towering sandstone walls up to 80 feet high",
+      "Enjoy the narrated history and geology of the canyon",
+      "After the tour, check out the Witches Gulch trail for more sandstone scenery"
+    ],
+    "links": [
+      {"label": "Map", "url": "https://www.google.com/maps/search/Lost+Canyon+Tours+Wisconsin+Dells+WI"},
+      {"label": "Lost Canyon", "url": "https://www.lostcanyontour.com/"}
+    ],
+    "notes": [
+      "Tours run spring through fall — check seasonal hours",
+      "The ride takes about 30-45 minutes",
+      "Witches Gulch is accessible by Upper Dells Boat Tour — check availability"
+    ]
+  }
+]

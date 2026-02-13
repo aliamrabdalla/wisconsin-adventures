@@ -19,8 +19,14 @@
       "Cool down with drinks at a nearby Fox River brewery"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/The+Breaking+Point+LLC+Appleton+WI"},
-      {"label": "Website", "url": "https://www.thebreakingpointllc.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/The+Breaking+Point+LLC+Appleton+WI"
+      },
+      {
+        "label": "Website",
+        "url": "https://www.thebreakingpointllc.com/"
+      }
     ],
     "notes": [
       "Book at least a few days ahead — weekend slots fill up",
@@ -48,8 +54,14 @@
       "Hike the boardwalk through the ridges to stretch your legs"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Door+County+Adventure+Rafting+Baileys+Harbor+WI"},
-      {"label": "Adventure Rafting", "url": "https://www.doorcountyadventurerafting.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Door+County+Adventure+Rafting+Baileys+Harbor+WI"
+      },
+      {
+        "label": "Adventure Rafting",
+        "url": "https://www.doorcountyadventurerafting.com/"
+      }
     ],
     "notes": [
       "Tours run June through September depending on weather",
@@ -77,8 +89,18 @@
       "Cool off with a swim at the north shore beach"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Devils+Lake+State+Park+Baraboo+WI"},
-      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/devilslake"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Devils+Lake+State+Park+Baraboo+WI"
+      },
+      {
+        "label": "WI DNR",
+        "url": "https://dnr.wisconsin.gov/topic/parks/devilslake"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/balanced-rock-trail"
+      }
     ],
     "notes": [
       "$13 daily vehicle pass or annual WI state park sticker required",
@@ -106,8 +128,18 @@
       "After the tour, walk the Bayfield waterfront and grab lunch"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Bayfield+WI+kayak+tours"},
-      {"label": "Apostle Islands", "url": "https://www.nps.gov/apis/index.htm"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Bayfield+WI+kayak+tours"
+      },
+      {
+        "label": "Apostle Islands",
+        "url": "https://www.nps.gov/apis/index.htm"
+      },
+      {
+        "label": "Book Kayak Tour",
+        "url": "https://www.whitecapkayak.com/"
+      }
     ],
     "notes": [
       "Book well in advance — summer tours sell out fast",
@@ -135,8 +167,14 @@
       "Clean up and head into town for a post-ride meal"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/CAMBA+Trails+Cable+WI"},
-      {"label": "CAMBA Trails", "url": "https://www.cambatrails.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/CAMBA+Trails+Cable+WI"
+      },
+      {
+        "label": "CAMBA Trails",
+        "url": "https://www.cambatrails.org/"
+      }
     ],
     "notes": [
       "Trails are free — donations support maintenance",
@@ -164,8 +202,14 @@
       "Grab lunch or coffee at one of the downtown cafes"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Downtown+Cedarburg+WI"},
-      {"label": "Visit Cedarburg", "url": "https://www.cedarburg.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Downtown+Cedarburg+WI"
+      },
+      {
+        "label": "Visit Cedarburg",
+        "url": "https://www.cedarburg.org/"
+      }
     ],
     "notes": [
       "Free street parking — fills up on festival weekends",
@@ -192,8 +236,14 @@
       "Enjoy free samples in the tasting room"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Leinenkugels+Brewery+Chippewa+Falls+WI"},
-      {"label": "Leinie Lodge", "url": "https://leinie.com/leinie-lodge"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Leinenkugels+Brewery+Chippewa+Falls+WI"
+      },
+      {
+        "label": "Leinie Lodge",
+        "url": "https://leinie.com/leinie-lodge"
+      }
     ],
     "notes": [
       "Tours are free — samples included",
@@ -221,8 +271,14 @@
       "Spot eagles, loons, and herons along the way"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Eagle+River+Chain+of+Lakes+WI"},
-      {"label": "Eagle River Info", "url": "https://www.eagleriver.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Eagle+River+Chain+of+Lakes+WI"
+      },
+      {
+        "label": "Eagle River Info",
+        "url": "https://www.eagleriver.org/"
+      }
     ],
     "notes": [
       "Half-day and full-day rentals available — book ahead for weekends",
@@ -250,8 +306,14 @@
       "Walk to a downtown restaurant for food and drinks"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Chippewa+River+tubing+Eau+Claire+WI"},
-      {"label": "Visit Eau Claire", "url": "https://www.visiteauclaire.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Chippewa+River+tubing+Eau+Claire+WI"
+      },
+      {
+        "label": "Visit Eau Claire",
+        "url": "https://www.visiteauclaire.com/"
+      }
     ],
     "notes": [
       "Tubing depends on weather and water levels",
@@ -278,8 +340,14 @@
       "After the track, drive into Elkhart Lake village for lunch by the water"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Road+America+Elkhart+Lake+WI"},
-      {"label": "Road America", "url": "https://www.roadamerica.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Road+America+Elkhart+Lake+WI"
+      },
+      {
+        "label": "Road America",
+        "url": "https://www.roadamerica.com/"
+      }
     ],
     "notes": [
       "Experiences range from go-karts ($) to supercars ($$$)",
@@ -307,8 +375,14 @@
       "Grab ice cream from a nearby spot and enjoy it in the park"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Lakeside+Park+Fond+du+Lac+WI"},
-      {"label": "Fond du Lac Parks", "url": "https://www.fdl.wi.gov/parks/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Lakeside+Park+Fond+du+Lac+WI"
+      },
+      {
+        "label": "Fond du Lac Parks",
+        "url": "https://www.fdl.wi.gov/parks/"
+      }
     ],
     "notes": [
       "The park and lighthouse walk are free",
@@ -336,8 +410,14 @@
       "Head to nearby Trempealeau for dinner at the historic hotel"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Trempealeau+National+Wildlife+Refuge+WI"},
-      {"label": "Refuge Info", "url": "https://www.fws.gov/refuge/trempealeau/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Trempealeau+National+Wildlife+Refuge+WI"
+      },
+      {
+        "label": "Refuge Info",
+        "url": "https://www.fws.gov/refuge/trempealeau/"
+      }
     ],
     "notes": [
       "The refuge is free and open dawn to dusk",
@@ -365,8 +445,18 @@
       "Grab lunch at one of the restaurants inside the Lambeau Atrium"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Lambeau+Field+Green+Bay+WI"},
-      {"label": "Stadium Tours", "url": "https://www.packers.com/lambeau-field/stadium-tours"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Lambeau+Field+Green+Bay+WI"
+      },
+      {
+        "label": "Stadium Tours",
+        "url": "https://www.packers.com/lambeau-field/stadium-tours"
+      },
+      {
+        "label": "Book Tour",
+        "url": "https://www.packershofandtours.com/plan-your-visit/admission-tickets"
+      }
     ],
     "notes": [
       "Tours run year-round but schedules vary on game days",
@@ -394,8 +484,14 @@
       "Cool down with ice cream at a local dairy shop"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Wilderness+Walk+Hayward+WI"},
-      {"label": "Hayward Info", "url": "https://www.haywardlakes.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Wilderness+Walk+Hayward+WI"
+      },
+      {
+        "label": "Hayward Info",
+        "url": "https://www.haywardlakes.com/"
+      }
     ],
     "notes": [
       "Open seasonally — typically mid-May through Labor Day",
@@ -422,8 +518,18 @@
       "Visit the gift shop inside the basilica"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Holy+Hill+Hubertus+WI"},
-      {"label": "Holy Hill", "url": "https://www.holyhill.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Holy+Hill+Hubertus+WI"
+      },
+      {
+        "label": "Holy Hill",
+        "url": "https://www.holyhill.com/"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-holy-hill"
+      }
     ],
     "notes": [
       "The scenic tower requires a small fee — grounds are free",
@@ -450,8 +556,14 @@
       "Find a quiet bench and enjoy the scenery together"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Rotary+Botanical+Gardens+Janesville+WI"},
-      {"label": "Rotary Gardens", "url": "https://www.rotarybotanicalgardens.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Rotary+Botanical+Gardens+Janesville+WI"
+      },
+      {
+        "label": "Rotary Gardens",
+        "url": "https://www.rotarybotanicalgardens.org/"
+      }
     ],
     "notes": [
       "Admission is free — donations appreciated",
@@ -479,8 +591,14 @@
       "Stop for a nice lunch at one of the village restaurants"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Kohler+Design+Center+Kohler+WI"},
-      {"label": "Kohler", "url": "https://www.kohler.com/en/visit-kohler"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Kohler+Design+Center+Kohler+WI"
+      },
+      {
+        "label": "Kohler",
+        "url": "https://www.kohler.com/en/visit-kohler"
+      }
     ],
     "notes": [
       "The Design Center is free and open Monday-Saturday",
@@ -508,8 +626,18 @@
       "Head downtown to a Mississippi River restaurant for dinner"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Grandad+Bluff+La+Crosse+WI"},
-      {"label": "Explore La Crosse", "url": "https://www.explorelacrosse.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Grandad+Bluff+La+Crosse+WI"
+      },
+      {
+        "label": "Explore La Crosse",
+        "url": "https://www.explorelacrosse.com/"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/grandad-bluff-valley-trail"
+      }
     ],
     "notes": [
       "Free parking at the top — the road is steep but paved",
@@ -537,8 +665,18 @@
       "Browse the shops and restaurants along Main Street"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Lake+Geneva+Cruise+Line+WI"},
-      {"label": "Cruise Line", "url": "https://www.cruiselakegeneva.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Lake+Geneva+Cruise+Line+WI"
+      },
+      {
+        "label": "Cruise Line",
+        "url": "https://www.cruiselakegeneva.com/"
+      },
+      {
+        "label": "Book Cruise",
+        "url": "https://www.cruiselakegeneva.com/public-tours/"
+      }
     ],
     "notes": [
       "The mailboat tour (with the famous jumping mail carrier) runs in summer",
@@ -565,8 +703,14 @@
       "Sit by the lakefront garden area and enjoy the view of Lake Monona"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Olbrich+Botanical+Gardens+Madison+WI"},
-      {"label": "Olbrich Gardens", "url": "https://www.olbrich.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Olbrich+Botanical+Gardens+Madison+WI"
+      },
+      {
+        "label": "Olbrich Gardens",
+        "url": "https://www.olbrich.org/"
+      }
     ],
     "notes": [
       "Outdoor gardens are free — the conservatory has a small admission fee",
@@ -594,8 +738,14 @@
       "Grab brunch at a nearby restaurant on the square"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Wisconsin+State+Capitol+Madison+WI"},
-      {"label": "Farmers' Market", "url": "https://dcfm.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Wisconsin+State+Capitol+Madison+WI"
+      },
+      {
+        "label": "Farmers' Market",
+        "url": "https://dcfm.org/"
+      }
     ],
     "notes": [
       "Saturday market runs 6:15 AM-1:45 PM, April through November",
@@ -623,8 +773,14 @@
       "Grab Babcock Hall ice cream or a pitcher and watch the sunset"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Picnic+Point+Madison+WI"},
-      {"label": "Union Terrace", "url": "https://union.wisc.edu/visit/terrace-at-the-memorial-union/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Picnic+Point+Madison+WI"
+      },
+      {
+        "label": "Union Terrace",
+        "url": "https://union.wisc.edu/visit/terrace-at-the-memorial-union/"
+      }
     ],
     "notes": [
       "Both are free — bring your own snacks or buy at the Terrace",
@@ -652,8 +808,14 @@
       "Pick a restaurant for dinner — the options span every cuisine"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Chazen+Museum+of+Art+Madison+WI"},
-      {"label": "Chazen Museum", "url": "https://chazen.wisc.edu/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Chazen+Museum+of+Art+Madison+WI"
+      },
+      {
+        "label": "Chazen Museum",
+        "url": "https://chazen.wisc.edu/"
+      }
     ],
     "notes": [
       "The Chazen is free and open year-round (closed Mondays)",
@@ -680,8 +842,18 @@
       "Walk the Manitowoc Riverwalk along the harbor"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Wisconsin+Maritime+Museum+Manitowoc+WI"},
-      {"label": "Maritime Museum", "url": "https://www.wisconsinmaritime.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Wisconsin+Maritime+Museum+Manitowoc+WI"
+      },
+      {
+        "label": "Maritime Museum",
+        "url": "https://www.wisconsinmaritime.org/"
+      },
+      {
+        "label": "Book Tickets",
+        "url": "https://www.wisconsinmaritime.org/visit/plan-your-visit/"
+      }
     ],
     "notes": [
       "Submarine tour is included with museum admission",
@@ -709,8 +881,18 @@
       "Take the ferry back and grab food in Merrimac"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Parfreys+Glen+State+Natural+Area+WI"},
-      {"label": "Merrimac Ferry", "url": "https://wisconsindot.gov/Pages/travel/road/merrimac-ferry/default.aspx"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Parfreys+Glen+State+Natural+Area+WI"
+      },
+      {
+        "label": "Merrimac Ferry",
+        "url": "https://wisconsindot.gov/Pages/travel/road/merrimac-ferry/default.aspx"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/parfreys-glen"
+      }
     ],
     "notes": [
       "The ferry runs April through November, dawn to dusk",
@@ -738,8 +920,14 @@
       "Grab dinner or drinks at one of the neighborhood's restaurants"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Milwaukee+Public+Market+WI"},
-      {"label": "Third Ward", "url": "https://historicthirdward.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Milwaukee+Public+Market+WI"
+      },
+      {
+        "label": "Third Ward",
+        "url": "https://historicthirdward.org/"
+      }
     ],
     "notes": [
       "The Public Market is open daily — weekday mornings are less crowded",
@@ -767,8 +955,18 @@
       "Walk the lakefront trail or explore the nearby Beerline Trail"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Lakefront+Brewery+Milwaukee+WI"},
-      {"label": "Lakefront Brewery", "url": "https://www.lakefrontbrewery.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Lakefront+Brewery+Milwaukee+WI"
+      },
+      {
+        "label": "Lakefront Brewery",
+        "url": "https://www.lakefrontbrewery.com/"
+      },
+      {
+        "label": "Book Tour",
+        "url": "https://lakefrontbrewery.com/brewery-tours/our-famous-tour"
+      }
     ],
     "notes": [
       "Book online — Friday and Saturday tours sell out fast",
@@ -796,8 +994,18 @@
       "Walk the lakefront path or War Memorial plaza afterwards"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Milwaukee+Art+Museum+WI"},
-      {"label": "Art Museum", "url": "https://mam.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Milwaukee+Art+Museum+WI"
+      },
+      {
+        "label": "Art Museum",
+        "url": "https://mam.org/"
+      },
+      {
+        "label": "Tickets",
+        "url": "https://mam.org/visit/"
+      }
     ],
     "notes": [
       "Wings open at 10 AM, fold at noon, reopen, close at museum closing",
@@ -824,8 +1032,14 @@
       "Head to a local brewery for a craft beer and a bite"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Mineral+Point+WI+High+Street"},
-      {"label": "Visit Mineral Point", "url": "https://www.mineralpoint.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Mineral+Point+WI+High+Street"
+      },
+      {
+        "label": "Visit Mineral Point",
+        "url": "https://www.mineralpoint.com/"
+      }
     ],
     "notes": [
       "Gallery Night events happen several times a year — check the calendar",
@@ -853,8 +1067,14 @@
       "Cool off with a swim or kayak rental on Lake Minocqua"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Wildwood+Wildlife+Park+Minocqua+WI"},
-      {"label": "Wildwood", "url": "https://www.wildwoodwildlifepark.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Wildwood+Wildlife+Park+Minocqua+WI"
+      },
+      {
+        "label": "Wildwood",
+        "url": "https://www.wildwoodwildlifepark.com/"
+      }
     ],
     "notes": [
       "Open seasonally — typically mid-May through late September",
@@ -882,8 +1102,18 @@
       "Browse the Scandinavian-themed shops on Main Street"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Cave+of+the+Mounds+Mount+Horeb+WI"},
-      {"label": "Cave of the Mounds", "url": "https://www.caveofthemounds.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Cave+of+the+Mounds+Mount+Horeb+WI"
+      },
+      {
+        "label": "Cave of the Mounds",
+        "url": "https://www.caveofthemounds.com/"
+      },
+      {
+        "label": "Buy Tickets",
+        "url": "https://www.caveofthemounds.com/plan-your-visit/"
+      }
     ],
     "notes": [
       "The cave is a constant 50°F — bring a light jacket",
@@ -911,8 +1141,14 @@
       "Rent kayaks or paddleboards and spend time on the water"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Castle+Rock+Lake+New+Lisbon+WI"},
-      {"label": "New Lisbon Info", "url": "https://www.newlisbonwi.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Castle+Rock+Lake+New+Lisbon+WI"
+      },
+      {
+        "label": "New Lisbon Info",
+        "url": "https://www.newlisbonwi.com/"
+      }
     ],
     "notes": [
       "Must be 16+ with valid ID to drive an ATV on most tours",
@@ -940,8 +1176,18 @@
       "Browse the museum shop for aviation gifts"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/EAA+Aviation+Museum+Oshkosh+WI"},
-      {"label": "EAA Museum", "url": "https://www.eaa.org/eaa-museum"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/EAA+Aviation+Museum+Oshkosh+WI"
+      },
+      {
+        "label": "EAA Museum",
+        "url": "https://www.eaa.org/eaa-museum"
+      },
+      {
+        "label": "Tickets",
+        "url": "https://www.eaa.org/eaa-museum/visitor-information/admission-rates-services-and-amenities"
+      }
     ],
     "notes": [
       "Open year-round — great rainy-day date",
@@ -969,8 +1215,14 @@
       "Drive the Great River Road north or south for scenic bluff views"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Pepin+WI"},
-      {"label": "Stockholm Pie", "url": "https://www.stockholmpie.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Pepin+WI"
+      },
+      {
+        "label": "Stockholm Pie",
+        "url": "https://www.stockholmpie.com/"
+      }
     ],
     "notes": [
       "Stockholm Pie is seasonal — check hours before visiting",
@@ -998,8 +1250,14 @@
       "Drive to a Great River Road overlook for Mississippi views"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/National+Brewery+Museum+Potosi+WI"},
-      {"label": "Potosi Brewing", "url": "https://www.potosibrewery.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/National+Brewery+Museum+Potosi+WI"
+      },
+      {
+        "label": "Potosi Brewing",
+        "url": "https://www.potosibrewery.com/"
+      }
     ],
     "notes": [
       "Museum admission is affordable — check for combo deals with tastings",
@@ -1027,8 +1285,18 @@
       "Drive into Prairie du Chien and visit Villa Louis if time allows"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Wyalusing+State+Park+WI"},
-      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/wyalusing"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Wyalusing+State+Park+WI"
+      },
+      {
+        "label": "WI DNR",
+        "url": "https://dnr.wisconsin.gov/topic/parks/wyalusing"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/parks/us/wisconsin/wyalusing-state-park"
+      }
     ],
     "notes": [
       "State park vehicle pass required ($13/day or annual)",
@@ -1056,8 +1324,18 @@
       "Stop for a bratwurst in Sheboygan on the way out"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Kohler+Andrae+State+Park+Sheboygan+WI"},
-      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/kohlerandrae"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Kohler+Andrae+State+Park+Sheboygan+WI"
+      },
+      {
+        "label": "WI DNR",
+        "url": "https://dnr.wisconsin.gov/topic/parks/kohlerandrae"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/cordwalk-boardwalk-trail"
+      }
     ],
     "notes": [
       "State park vehicle pass required ($13/day or annual)",
@@ -1085,8 +1363,14 @@
       "Stop at a cherry orchard or winery along the way"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Al+Johnsons+Swedish+Restaurant+Sister+Bay+WI"},
-      {"label": "Al Johnson's", "url": "https://www.aljohnsons.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Al+Johnsons+Swedish+Restaurant+Sister+Bay+WI"
+      },
+      {
+        "label": "Al Johnson's",
+        "url": "https://www.aljohnsons.com/"
+      }
     ],
     "notes": [
       "Al Johnson's is cash-only (or check) — no credit cards",
@@ -1114,8 +1398,18 @@
       "Stop in Spring Green for dinner afterwards"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/House+on+the+Rock+Spring+Green+WI"},
-      {"label": "House on the Rock", "url": "https://www.thehouseontherock.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/House+on+the+Rock+Spring+Green+WI"
+      },
+      {
+        "label": "House on the Rock",
+        "url": "https://www.thehouseontherock.com/"
+      },
+      {
+        "label": "Buy Tickets",
+        "url": "https://www.thehouseontherock.com/buy-tickets/"
+      }
     ],
     "notes": [
       "Allow 3-4 hours if you want to see all three sections",
@@ -1143,8 +1437,18 @@
       "Drive to nearby Tower Hill State Park for a short bluff hike with river views"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Taliesin+Spring+Green+WI"},
-      {"label": "Taliesin", "url": "https://www.taliesinpreservation.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Taliesin+Spring+Green+WI"
+      },
+      {
+        "label": "Taliesin",
+        "url": "https://www.taliesinpreservation.org/"
+      },
+      {
+        "label": "Book Tour",
+        "url": "https://www.taliesinpreservation.org/tours"
+      }
     ],
     "notes": [
       "Tours are seasonal — typically May through October",
@@ -1172,8 +1476,18 @@
       "End at a local restaurant or the Stevens Point Brewery for refreshments"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Green+Circle+Trail+Stevens+Point+WI"},
-      {"label": "Green Circle Trail", "url": "https://www.greencircletrail.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Green+Circle+Trail+Stevens+Point+WI"
+      },
+      {
+        "label": "Green Circle Trail",
+        "url": "https://www.greencircletrail.org/"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/green-circle-trail"
+      }
     ],
     "notes": [
       "The trail is free and open year-round",
@@ -1201,8 +1515,14 @@
       "Continue your drive north or south along the river"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Stockholm+WI"},
-      {"label": "Great River Road", "url": "https://www.wigreatriverroad.org/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Stockholm+WI"
+      },
+      {
+        "label": "Great River Road",
+        "url": "https://www.wigreatriverroad.org/"
+      }
     ],
     "notes": [
       "Stockholm shops and bakeries are seasonal — check hours",
@@ -1230,8 +1550,14 @@
       "Walk downtown Stoughton's Main Street for a Norwegian-themed vibe"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Yahara+River+Stoughton+WI"},
-      {"label": "Stoughton Info", "url": "https://www.stoughtonwi.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Yahara+River+Stoughton+WI"
+      },
+      {
+        "label": "Stoughton Info",
+        "url": "https://www.stoughtonwi.com/"
+      }
     ],
     "notes": [
       "The river is calm and beginner-friendly",
@@ -1259,8 +1585,14 @@
       "End the day with a traditional Door County fish boil for dinner"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Door+County+wineries+Sturgeon+Bay+WI"},
-      {"label": "Door County Wine Trail", "url": "https://www.doorcountywinetrail.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Door+County+wineries+Sturgeon+Bay+WI"
+      },
+      {
+        "label": "Door County Wine Trail",
+        "url": "https://www.doorcountywinetrail.com/"
+      }
     ],
     "notes": [
       "Designate a driver or use a tour service",
@@ -1288,8 +1620,18 @@
       "If time allows, cross into Duluth, MN for dinner"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Pattison+State+Park+Superior+WI"},
-      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/pattison"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Pattison+State+Park+Superior+WI"
+      },
+      {
+        "label": "WI DNR",
+        "url": "https://dnr.wisconsin.gov/topic/parks/pattison"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/manitou-falls-trail"
+      }
     ],
     "notes": [
       "State park vehicle pass required ($13/day or annual)",
@@ -1317,8 +1659,14 @@
       "Watch for bald eagles, otters, and turtles along the way"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Namekagon+River+Trego+WI"},
-      {"label": "National Scenic Riverway", "url": "https://www.nps.gov/sacn/index.htm"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Namekagon+River+Trego+WI"
+      },
+      {
+        "label": "National Scenic Riverway",
+        "url": "https://www.nps.gov/sacn/index.htm"
+      }
     ],
     "notes": [
       "The river is calm and great for beginners",
@@ -1346,8 +1694,18 @@
       "Hike the Red Pine Trail through the interior forest"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Point+Beach+State+Forest+Two+Rivers+WI"},
-      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/StateForests/pointbeach"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Point+Beach+State+Forest+Two+Rivers+WI"
+      },
+      {
+        "label": "WI DNR",
+        "url": "https://dnr.wisconsin.gov/topic/StateForests/pointbeach"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/point-beach-red-loop"
+      }
     ],
     "notes": [
       "State park vehicle pass required ($13/day or annual)",
@@ -1375,8 +1733,18 @@
       "Head into Wausau for food and drinks"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Rib+Mountain+State+Park+Wausau+WI"},
-      {"label": "WI DNR", "url": "https://dnr.wisconsin.gov/topic/parks/ribmt"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Rib+Mountain+State+Park+Wausau+WI"
+      },
+      {
+        "label": "WI DNR",
+        "url": "https://dnr.wisconsin.gov/topic/parks/ribmt"
+      },
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com/trail/us/wisconsin/rib-mountain-yellow-trail"
+      }
     ],
     "notes": [
       "State park vehicle pass required ($13/day or annual)",
@@ -1404,8 +1772,14 @@
       "Float under the stars and enjoy the surreal experience together"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Clear+Kayak+Glow+Tour+Waupaca+WI"},
-      {"label": "Waupaca Info", "url": "https://www.waupacaareachamber.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Clear+Kayak+Glow+Tour+Waupaca+WI"
+      },
+      {
+        "label": "Waupaca Info",
+        "url": "https://www.waupacaareachamber.com/"
+      }
     ],
     "notes": [
       "Book well in advance — glow tours are extremely popular",
@@ -1433,8 +1807,18 @@
       "After the tour, check out the Witches Gulch trail for more sandstone scenery"
     ],
     "links": [
-      {"label": "Map", "url": "https://www.google.com/maps/search/Lost+Canyon+Tours+Wisconsin+Dells+WI"},
-      {"label": "Lost Canyon", "url": "https://www.lostcanyontour.com/"}
+      {
+        "label": "Map",
+        "url": "https://www.google.com/maps/search/Lost+Canyon+Tours+Wisconsin+Dells+WI"
+      },
+      {
+        "label": "Lost Canyon",
+        "url": "https://www.lostcanyontour.com/"
+      },
+      {
+        "label": "Buy Tickets",
+        "url": "https://www.lostcanyontour.com/rates/"
+      }
     ],
     "notes": [
       "Tours run spring through fall — check seasonal hours",

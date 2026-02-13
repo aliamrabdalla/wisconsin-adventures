@@ -15,44 +15,41 @@ body {
   line-height: 1.6;
 }
 .page-wrap {
-  max-width: 600px;
+  max-width: 650px;
   margin: 0 auto;
-  padding: 1.5rem 1rem;
+  padding: 1rem 1.25rem;
 }
 
 /* ── Card Reveal Page ──────────────────────────── */
 
 .card-header {
   text-align: center;
-  padding-bottom: 1rem;
-  border-bottom: 2px solid var(--forest);
+  padding: 1.5rem 1rem 1.25rem;
+  background: var(--forest);
+  position: relative;
 }
 .card-id {
-  display: inline-block;
-  font-size: 0.7rem;
+  position: absolute;
+  top: 0.6rem;
+  right: 0.75rem;
+  font-size: 0.65rem;
   font-weight: 600;
-  color: var(--lake);
+  color: rgba(255,255,255,0.3);
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  border: 1px solid var(--lake);
-  padding: 0.15rem 0.5rem;
-  border-radius: 3px;
-  margin-bottom: 0.5rem;
 }
 .location {
   font-size: 1.75rem;
   font-weight: 800;
-  color: var(--forest);
+  color: var(--white);
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  margin: 0.25rem 0 0;
 }
 .badges {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 0.4rem;
-  justify-content: center;
-  padding: 1rem 0;
+  padding: 1rem;
 }
 .badge {
   font-size: 0.7rem;
@@ -63,10 +60,17 @@ body {
   background: var(--white);
   border: 1px solid var(--light-gray);
   border-radius: 3px;
-  padding: 0.2rem 0.6rem;
+  padding: 0.25rem 0.25rem;
+  text-align: center;
+}
+.badge i {
+  display: block;
+  font-size: 0.75rem;
+  margin-bottom: 0.1rem;
+  color: var(--forest);
 }
 .reveal {
-  padding: 1.25rem 0;
+  padding: 0.75rem 0;
   text-align: center;
   border-bottom: 1px solid var(--light-gray);
 }
@@ -95,7 +99,7 @@ body {
   font-size: 0.95rem;
 }
 .section {
-  padding: 1.25rem 0;
+  padding: 0.75rem 0;
   border-bottom: 1px solid var(--light-gray);
 }
 .section-title {
@@ -119,7 +123,7 @@ body {
   color: var(--amber);
   font-size: 0.8rem;
 }
-.links { padding: 1.25rem 0; }
+.links { padding: 0.75rem 0; }
 .links a {
   display: inline-block;
   margin: 0.25rem 0.4rem 0.25rem 0;
@@ -133,8 +137,9 @@ body {
   transition: background 0.15s;
 }
 .links a:hover, .links a:focus { background: var(--forest); }
+.links a i { margin-right: 0.35rem; }
 .footer {
-  padding: 1.5rem 0 0.5rem;
+  padding: 0.5rem 0 0.5rem;
   text-align: center;
   font-size: 0.75rem;
   color: #999;
@@ -197,6 +202,7 @@ body {
   padding: 0.1rem 0.4rem;
   text-transform: uppercase;
 }
+.grid-card .gc-badge i { margin-right: 0.2rem; color: var(--forest); }
 .grid-card .gc-reveal {
   display: inline-block;
   margin-top: 0.5rem;

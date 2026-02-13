@@ -50,44 +50,41 @@ body {
   line-height: 1.6;
 }
 .page-wrap {
-  max-width: 600px;
+  max-width: 650px;
   margin: 0 auto;
-  padding: 1.5rem 1rem;
+  padding: 1rem 1.25rem;
 }
 
 /* ── Card Reveal Page ──────────────────────────── */
 
 .card-header {
   text-align: center;
-  padding-bottom: 1rem;
-  border-bottom: 2px solid var(--forest);
+  padding: 1.5rem 1rem 1.25rem;
+  background: var(--forest);
+  position: relative;
 }
 .card-id {
-  display: inline-block;
-  font-size: 0.7rem;
+  position: absolute;
+  top: 0.6rem;
+  right: 0.75rem;
+  font-size: 0.65rem;
   font-weight: 600;
-  color: var(--lake);
+  color: rgba(255,255,255,0.3);
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  border: 1px solid var(--lake);
-  padding: 0.15rem 0.5rem;
-  border-radius: 3px;
-  margin-bottom: 0.5rem;
 }
 .location {
   font-size: 1.75rem;
   font-weight: 800;
-  color: var(--forest);
+  color: var(--white);
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  margin: 0.25rem 0 0;
 }
 .badges {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 0.4rem;
-  justify-content: center;
-  padding: 1rem 0;
+  padding: 1rem;
 }
 .badge {
   font-size: 0.7rem;
@@ -98,10 +95,17 @@ body {
   background: var(--white);
   border: 1px solid var(--light-gray);
   border-radius: 3px;
-  padding: 0.2rem 0.6rem;
+  padding: 0.25rem 0.25rem;
+  text-align: center;
+}
+.badge i {
+  display: block;
+  font-size: 0.75rem;
+  margin-bottom: 0.1rem;
+  color: var(--forest);
 }
 .reveal {
-  padding: 1.25rem 0;
+  padding: 0.75rem 0;
   text-align: center;
   border-bottom: 1px solid var(--light-gray);
 }
@@ -130,7 +134,7 @@ body {
   font-size: 0.95rem;
 }
 .section {
-  padding: 1.25rem 0;
+  padding: 0.75rem 0;
   border-bottom: 1px solid var(--light-gray);
 }
 .section-title {
@@ -154,7 +158,7 @@ body {
   color: var(--amber);
   font-size: 0.8rem;
 }
-.links { padding: 1.25rem 0; }
+.links { padding: 0.75rem 0; }
 .links a {
   display: inline-block;
   margin: 0.25rem 0.4rem 0.25rem 0;
@@ -168,8 +172,9 @@ body {
   transition: background 0.15s;
 }
 .links a:hover, .links a:focus { background: var(--forest); }
+.links a i { margin-right: 0.35rem; }
 .footer {
-  padding: 1.5rem 0 0.5rem;
+  padding: 0.5rem 0 0.5rem;
   text-align: center;
   font-size: 0.75rem;
   color: #999;
@@ -232,6 +237,7 @@ body {
   padding: 0.1rem 0.4rem;
   text-transform: uppercase;
 }
+.grid-card .gc-badge i { margin-right: 0.2rem; color: var(--forest); }
 .grid-card .gc-reveal {
   display: inline-block;
   margin-top: 0.5rem;
@@ -248,6 +254,7 @@ CARD_PAGE_TEMPLATE = """<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>%%location_title%% - Wisconsin Adventure Cards</title>
   <link rel="stylesheet" href="../../assets/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
   <div class="page-wrap">
@@ -256,12 +263,7 @@ CARD_PAGE_TEMPLATE = """<!DOCTYPE html>
       <h1 class="location">%%location_title%%</h1>
     </header>
     <div class="badges">
-      <span class="badge">%%cost%%</span>
-      <span class="badge">%%time_of_day%%</span>
-      <span class="badge">%%duration%%</span>
-      <span class="badge">%%setting%%</span>
-      <span class="badge">%%effort%%</span>
-      <span class="badge">%%season%%</span>
+%%badges_html%%
     </div>
     <section class="reveal">
       <h2 class="reveal-title">%%reveal_title%%</h2>
@@ -300,6 +302,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Wisconsin Adventure Cards</title>
   <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
   <div class="page-wrap" style="max-width: 960px;">
@@ -322,12 +325,7 @@ INDEX_CARD_TEMPLATE = """      <a href="%%card_url%%" class="grid-card">
         <span class="gc-id">%%card_id%%</span>
         <div class="gc-location">%%location_title%%</div>
         <div class="gc-badges">
-          <span class="gc-badge">%%cost%%</span>
-          <span class="gc-badge">%%time_of_day%%</span>
-          <span class="gc-badge">%%duration%%</span>
-          <span class="gc-badge">%%setting%%</span>
-          <span class="gc-badge">%%effort%%</span>
-          <span class="gc-badge">%%season%%</span>
+%%gc_badges_html%%
         </div>
         <span class="gc-reveal">Reveal &rarr;</span>
       </a>"""
@@ -419,7 +417,7 @@ PRINT_PAGE_TEMPLATE = """<!DOCTYPE html>
       overflow: hidden;
       line-height: 1.3;
     }
-    .p-icon {
+    .p-badge i {
       font-size: 10pt;
       display: block;
       margin-bottom: 1pt;
@@ -496,22 +494,30 @@ def build_card_page(card):
     if card.get("summary_blurb"):
         summary_html = f'      <p class="summary">{esc(card["summary_blurb"])}</p>'
 
+    badge_fields = [
+        ("cost", card["cost"]),
+        ("time", card["time_of_day"]),
+        ("duration", card["duration"]),
+        ("setting", card["setting"]),
+        ("effort", card["effort"]),
+        ("season", card["season"]),
+    ]
+    badges_html = "\n".join(
+        f'      <span class="badge">{badge_icon(cat, val)}{esc(val)}</span>'
+        for cat, val in badge_fields
+    )
+
     steps_html = "\n".join(f"        <li>{esc(s)}</li>" for s in card["steps"])
     notes_html = "\n".join(f"        <li>{esc(n)}</li>" for n in card["notes"])
     links_html = "\n".join(
-        f'      <a href="{esc(l["url"])}" target="_blank" rel="noopener">{esc(l["label"])}</a>'
+        f'      <a href="{esc(l["url"])}" target="_blank" rel="noopener">{link_icon(l["label"])}{esc(l["label"])}</a>'
         for l in card["links"]
     )
 
     page_html = render(CARD_PAGE_TEMPLATE, {
         "card_id": esc(card["id"]),
         "location_title": esc(card["location_title"]),
-        "cost": esc(card["cost"]),
-        "time_of_day": esc(card["time_of_day"]),
-        "duration": esc(card["duration"]),
-        "setting": esc(card["setting"]),
-        "effort": esc(card["effort"]),
-        "season": esc(card["season"]),
+        "badges_html": badges_html,
         "reveal_title": esc(card["reveal_title"]),
         "bonus_html": bonus_html,
         "summary_html": summary_html,
@@ -542,15 +548,22 @@ def get_qr_data_uri(url):
 def build_index(cards):
     card_items = []
     for card in cards:
+        badge_fields = [
+            ("cost", card["cost"]),
+            ("time", card["time_of_day"]),
+            ("duration", card["duration"]),
+            ("setting", card["setting"]),
+            ("effort", card["effort"]),
+            ("season", card["season"]),
+        ]
+        gc_badges_html = "\n".join(
+            f'          <span class="gc-badge">{badge_icon(cat, val)} {esc(val)}</span>'
+            for cat, val in badge_fields
+        )
         item = render(INDEX_CARD_TEMPLATE, {
             "card_id": esc(card["id"]),
             "location_title": esc(card["location_title"]),
-            "cost": esc(card["cost"]),
-            "time_of_day": esc(card["time_of_day"]),
-            "duration": esc(card["duration"]),
-            "setting": esc(card["setting"]),
-            "effort": esc(card["effort"]),
-            "season": esc(card["season"]),
+            "gc_badges_html": gc_badges_html,
             "card_url": f"cards/{card['id']}/index.html",
         })
         card_items.append(item)
@@ -571,12 +584,35 @@ BADGE_ICONS = {
                  "FALL": "fa-solid fa-leaf", "ANY": "fa-solid fa-calendar", "_default": "fa-solid fa-calendar"},
 }
 
+LINK_ICONS = {
+    "map": "fa-solid fa-map-location-dot",
+    "website": "fa-solid fa-globe",
+    "book": "fa-solid fa-calendar-check",
+    "reserve": "fa-solid fa-calendar-check",
+    "booking": "fa-solid fa-calendar-check",
+    "tickets": "fa-solid fa-ticket",
+    "yelp": "fa-brands fa-yelp",
+    "tripadvisor": "fa-solid fa-star",
+    "reviews": "fa-solid fa-star",
+    "alltrails": "fa-solid fa-route",
+    "trail": "fa-solid fa-route",
+    "menu": "fa-solid fa-utensils",
+    "photos": "fa-solid fa-camera",
+}
+
 def badge_icon(category, value):
     cat = BADGE_ICONS.get(category, {})
     cls = cat.get(value, cat.get("_default", ""))
     if not cls:
         return ""
-    return f'<i class="p-icon {cls}"></i>'
+    return f'<i class="{cls}"></i>'
+
+def link_icon(label):
+    key = label.lower().strip()
+    for keyword, cls in LINK_ICONS.items():
+        if keyword in key:
+            return f'<i class="{cls}"></i> '
+    return f'<i class="fa-solid fa-arrow-up-right-from-square"></i> '
 
 
 def build_print_sheets(cards):
